@@ -6,10 +6,13 @@
 
 - **Nama Kelompok:** _isi di sini_
 - **Anggota:**
-  1. _Nama — NIM — varian yang dikerjakan_
-  2. _Nama — NIM — varian yang dikerjakan_
-  3. _Nama — NIM — varian yang dikerjakan_
-  4. _Nama — NIM — varian yang dikerjakan_
+  1. _Joel Prasetya Pradipta — 32230020 — Single layer_
+  2. _Richard Sidharta — 32230069 — mlp tanh_
+  3. _Richard Stefano — 32230002 — mlp tanh_
+  4. _Ruben Wijaya — 32230048 — mlp sigmoid_
+  5. _Harlan Luthi Permana — 32230033 — mlp sigmoid_
+  6. _Cristian Everson Jong — 32230057 — mlp relu_
+  7. _Yogi Tansyah — 32220162 — comparison_
 
 ---
 
